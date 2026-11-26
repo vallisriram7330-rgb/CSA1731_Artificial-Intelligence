@@ -1,0 +1,6 @@
+method,energy_J,energy_change_pct,final_error_mm,rms_jerk,duration_s,total_cost,cost_mean_std_over_runs,optimisation_time_s_per_run,max_vel,max_acc,max_planned_torque,constraint_violation
+Baseline (quintic),149.67,0.00,1.075,2.398,3.000,0.8430,-,-,1.125,1.155,28.29,0.0000
+Baseline (matched time),163.06,8.95,1.058,1.611,3.425,0.8591,-,-,0.985,0.886,28.02,0.0000
+PSO,139.26,-6.96,0.365,2.330,3.407,0.7959,0.7972±0.0035,20.1,1.209,1.493,28.32,0.0000
+GWO,139.64,-6.70,0.366,2.318,3.398,0.7960,0.7964±0.0003,20.9,1.202,1.477,28.31,0.0000
+Hybrid PSO-GWO,139.28,-6.94,0.366,2.313,3.425,0.7959,0.7960±0.0001,20.6,1.204,1.486,28.30,0.0000
