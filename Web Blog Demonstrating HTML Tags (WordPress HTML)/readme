@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Title Tag -->
+    <meta charset="UTF-8">
+    <title>AI & Data Science Exploration Blog | Home</title>
+</head>
+<body>
+    <!-- Heading Tags -->
+    <h1>Welcome to My AI & Data Science Blog</h1>
+    <h2>Exploring Machine Learning and Web Technologies</h2>
+    
+    <p>Welcome to this beginner-friendly blog demonstrating essential HTML structure and navigation tags.</p>
+    
+    <h3>Key References & Links</h3>
+    <p>
+        Learn more about Python programming at the 
+        <!-- Anchor Tag -->
+        <a href="https://www.python.org" target="_blank" title="Official Python Website">Python Official Website</a>.
+    </p>
+    
+    <h4>Quick Navigation</h4>
+    <ul>
+        <li><a href="#intro">Introduction</a></li>
+        <li><a href="#contact">Contact Us</a></li>
+    </ul>
+
+    <h5 id="intro">Section 1: Overview</h5>
+    <p>HTML tags form the foundational skeleton of web applications and blog posts.</p>
+
+    <h6 id="contact">&copy; 2026 AI Student Blog</h6>
+</body>
+</html>
